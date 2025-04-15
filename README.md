@@ -1,4 +1,8 @@
-# MegaETH Testnet Contract ABIs
+"CONTRACT_ADDRESS": {
+  "name": "ExactContractName",
+  "abi": [/* Full unmodified ABI from compilation */]
+}
+MegaETH Testnet Contract ABIs
 
 Repository containing verified contract ABIs for MegaExplorer.
 
